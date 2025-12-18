@@ -56,6 +56,12 @@ The solution follows a **Medallion Architecture (Bronze → Silver → Gold)** a
 
 ---
 
+## 🏗️ Architecture Diagram
+
+![NYC Taxi Lakehouse Architecture](architecture/architecture_nyc.png)
+
+---
+
 ## 📊 Data Model (Star Schema)
 
 **Fact Table**
