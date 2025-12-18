@@ -69,5 +69,3 @@ The solution follows a **Medallion Architecture (Bronze → Silver → Gold)** a
 This model supports efficient analytical queries and BI reporting.
 
 ---
-
-## 📁 Repository Structure
